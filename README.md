@@ -1,22 +1,22 @@
-# 🤖 Gemini Chatbot
+# Gemini Chatbot
 
 Chatbot Inteligente com IA Generativa, uma base de um sistema de conversação utilizando a API do Gemini para interações textuais em tempo real via Streamlit
 
-## 🖼️ Projeto:
+## Projeto:
 ![Pagina Inicial](./assets/image.png)
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-* 🔍 Suporte a múltiplos modelos Gemini (Flash, Pro), basta apenas alterar métodos.
-* ✨ Geração de respostas contextuais e criativas
+* Suporte a múltiplos modelos Gemini (Flash, Pro), basta apenas alterar métodos.
+* Geração de respostas contextuais e criativas
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 * Python 3.10+
 * Conta no Google AI Studio
 * Conexão com internet
 
-## 🛠️ Instalação
+## Instalação
 
 1. Clone o repositório:
 ```bash
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 GEMINI_API_KEY=sua_chave_aqui
 ```
 
-## 🖥️ Como Usar
+## Como Usar
 
 1. Execute o aplicativo:
 ```bash
@@ -50,7 +50,7 @@ streamlit run src/main.py
 
 No navegador, digite sua mensagem e interaja com a IA!
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 gemini-chatbot/
